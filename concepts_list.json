@@ -1,0 +1,8 @@
+[
+    {
+        "instance_prompt": "",
+        "class_prompt": "",
+        "instance_data_dir": "content/data/instance",
+        "class_data_dir": "content/data/class"
+    }
+]
