@@ -16,7 +16,7 @@ def main():
         os.mkdir(OUTPUT_DIR + "/instance")
         os.mkdir(OUTPUT_DIR + "/class") 
 
-    HUGGINGFACE_TOKEN = "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" #@param {type:"string"}
+    HUGGINGFACE_TOKEN = "" #@param {type:"string"}
     print(f"{HUGGINGFACE_TOKEN} > ~/.huggingface/token")
 
 
